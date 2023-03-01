@@ -1,0 +1,6 @@
+table test1 1FYrDeBmc1yLUkTFuJEtjFpRjjhWQdqspE4
+
+table test2 15MyezVSmAajvnS8JRnhgLLd2hTSg6kQUV4
+
+joincluster 192.168.1.101 3301 123
+creatcluster 123
