@@ -1,0 +1,4 @@
+syntax ="proto3";  // 指定使用proto3
+option java_multiple_files = true;  //以非外部类模式生成
+option go_package = "./;client"; // 指定文件生成的位置与包名
+package clientGrpc; // 指定包名
